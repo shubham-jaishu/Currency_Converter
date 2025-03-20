@@ -39,12 +39,12 @@ This project demonstrates:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/shubham-jaishu/Currency_Converter.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd currency-converter
+   cd Currency_Converter
    ```
 
 3. Open the `index.html` file in your browser:
